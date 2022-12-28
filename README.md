@@ -5,7 +5,7 @@
 - 💞️ I’m looking for an opportunity to show, that no matter how old are you, what is your prefession, you can learn things that attracts you and do new things in a good way. It's never too late to learn something new. And you would be amazed, how much law and data science have in common.
 - 📫 How to reach me: 
 - by email: i.kirsanskaite@gmail.com
-- on LinkedIn: linkedin.com/in/indrė-rimkevičienė
+- on LinkedIn: linkedin.com/in/indre-rimkeviciene
 
 <!---
 Bargaile/Bargaile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
